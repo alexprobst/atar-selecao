@@ -1,7 +1,7 @@
 # atar-selecao
 Projeto para o processo de seleção da ATAR
 
-Para executar o projeto bata copia-lo em qualquer Webserser com PHP e abrir o index.htm
+Para executar o projeto basta descompactar o arquivo fontes.zip em qualquer Webserver com PHP e abrir o index.htm
 
 A tela consiste em um Grid com os dados carregados via AJAX da base de dados disponibilizada.
 
